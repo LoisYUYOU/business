@@ -1,0 +1,201 @@
+We use cookies to give you the best online experience. By using our website you agree to our use of cookies in accordance with our cookie policy. Learn More
+
+Close
+HOME
+ABOUT
+CONTACT
+ADVERTISE
+SUBMIT 
+SUBSCRIBE
+LATEST
+
+WORLD SUSTAINABLE TRAVEL & HOSPITALITY AWARDS OPENS ENTRIES FOR 2026 PROGRAMME
+
+HOME
+NEWS
+FOCUS
+EVENTS
+VIDEOS
+PHOTOS
+PUBLICATIONS
+CONTENT HUBS
+Home
+News
+All Categories
+Airline
+Hotel
+Cruise
+Events
+Technology
+AI
+Tourism
+Organisations & Operators
+Spa
+Sustainability
+Car Rental
+Rail & Coach
+Food & Beverage
+Focus
+Events
+Videos
+Photos
+Publications
+Content Hubs
+About
+Contact
+Advertise
+Submit
+Article
+Press Release
+Event
+Subscribe
+ HOME  TRAVEL NEWS  TRAVEL TECHNOLOGY NEWS / AI TRAVEL TECHNOLOGY NEWS / ORGANISATIONS & OPERATORS
+Fliggy unveils its next-generation agentic AI travel assistant
+ 20 hours ago 
+
+Fliggy, a leading online travel services platform and a wholly owned subsidiary of Alibaba Group, today announced the latest generation of its agentic AI travel assistant designed for personalized and direct task implementation, further upgrading its consumer-facing AI capabilities. 
+
+Powered by Alibaba’s Qwen model and built around Fliggy’s real-time transaction systems and proprietary travel scenario data, the upgraded assistant moves beyond travel planning and recommendations to directly undertake complex multistep travel tasks including arranging and changing bookings. It also features stronger memory capabilities, enabling it to better integrate users’ long-term preferences with their real-time needs, deliver more relevant solutions, and provide increasingly personalized support to Fliggy’s customers.
+
+Dr. Alex Chen, CTO at Fliggy, said: “This upgrade represents a meaningful step in bringing AI capabilities into the physical world. It fundamentally changes how travelers interact with our platform: users can now express personalized needs in natural language while our agentic AI assistant delivers real, actionable services across the entire journey – from trip planning and in-trip services to post-travel assistance. Looking ahead, as AI technology matures and the travel ecosystem continues to embrace it, we believe AI agents will grow increasingly intelligent, moving beyond reactive assistance to offer proactive support across every stage of the journey.”
+
+Execution from booking through in-trip services and beyond
+The upgraded AI assistant is built to act and respond. It takes the hassle out of making travel arrangements by developing itineraries, completing bookings, and handling tasks that in the past could require tedious online research or phone queuing. It can make reservations, arrange check-ins and seat selections, and undertake changes and cancellations. Beyond routine travel arrangements, it can also manage more complex and long-running tasks. For example, after a traveler requests a room upgrade, this AI assistant can communicate with the hotel, check availability, coordinate options and provide updates, allowing the traveler to carry on with their day while the request is being handled.
+Embedded throughout the Fliggy app – from the home screen all the way down to a single hotel’s detail page – the assistant can be invoked at almost any point on the planning journey. It allows users to describe complex travel requirements in natural language through voice or text commands, moving beyond keyword-based search and manual filtering to deliver accurate and personalized results. Rather than replacing traditional graphical user interface booking flows, the new AI assistant works alongside them, allowing users to either book through familiar interfaces or delegate tasks to it for execution across the platform.
+
+One assistant across the whole journey
+The idea behind is that travelers can simply say what they need, while the AI assistant helps handle the complexity behind the scenes. Designed to support travelers before, during, and after each trip, it is organized around three roles: Go Think, Go Book and Go Sort: The first covers inspiration, routing and budgeting based on Fliggy’s real time inventory. The second supports flights, hotels, and tours, comparing options and creating orders. The third addresses in-trip and post-booking service needs – covering everything from check-ins to itinerary changes – to create personalized travel memories.
+
+ADVERTISEMENT
+
+A travel-tuned AI architecture
+Reliability is at the core of this upgrade. Built on Alibaba’s Qwen model and further trained for travel using Fliggy’s real-time transaction systems and proprietary data, it combines agentic reinforcement learning with a dynamic evaluation system that verifies the real-world availability of the results while assessing task completion quality for each scenario. This helps ensure that the AI assistant delivers travel plans and services that are accurate and actionable.
+
+According to Fliggy data, the usability score of results delivered by the upgraded AI assistant has improved by more than 70% compared with its previous-generation product, while the average completion time for comparable tasks has been reduced by nearly 10%.
+
+This upgraded AI assistant adopts a streamlined multi-agent architecture that consolidates specialized agents and an expanded set of tools into a flexible and scalable system. This allows it to quickly incorporate new capabilities, and continuously improve alongside advances in foundation models, all while reducing latency and error accumulation.
+
+With this upgrade, Fliggy will continue to advance its travel-specific AI capabilities, and explore how AI can deliver more personalized experiences, reliable services and unlock new opportunities across the travel ecosystem.
+
+OLDER
+GLOBAL BUSINESS AVIATION LEADERS CHOOSE MEBAA SHOW 2026 AS THE UAE CONTINUES TO ATTRACT INVESTMENT
+NEWER
+Walk Japan Launches the Self-Guided Salt Road Wayfarer Tour
+TAGGED WITH:
+tourism
+travel
+fliggy unveils its next-generation agentic ai travel assistant
+SHARE ON:
+linkedin
+facebook
+x (twitter)
+email
+more
+SUBSCRIBE
+
+Subscribe to our daily newsletter to keep up to date with the latest headlines from the global hospitality sector.
+
+RECOMMENDED
+Abu Dhabi brought largest-ever delegation to UK for Experience Abu Dhabi Roadshow 2026
+ 2 days ago
+EasyJet’s £5.7bn Takeover: What Apollo’s Arrival Could Mean for One of Europe’s Biggest Airlines
+ 6 days ago
+RELATED ARTICLES
+Dominican Republic Launches Dedicated Luxury Training to Support Agents’ Knowledge of Beaches
+ 15 hours ago
+HOTEL LÜRZERHOF REOPENS FOLLOWING €10 MILLION TRANSFORMATION
+ 15 hours ago
+The China Ready® Workshop will return to WTM Africa 2027
+ 15 hours ago
+The Latest from Vegas – August 2026
+ 15 hours ago
+New survey reveals Britain’s top EV staycation locations
+ 15 hours ago
+Samoa’s Teuila Festival Returns in 2026 Celebrating the Heart of Samoan Arts and Culture
+ 15 hours ago
+Regent Seven Seas Cruises® Unveils the Leadership Team Guiding Seven Seas Prestige™ into Service
+ 15 hours ago
+World Sustainable Hospitality Alliance Sets Agenda for Hospitality’s Net-Positive Future
+ 15 hours ago
+FOLLOW BREAKING TRAVEL NEWS
+LATEST NEWS
+POPULAR NEWS
+Kenzy Dahabeya announces 2026–2027 boutique luxury Nile cruise season between Luxur & Aswan, Egypt
+ 3 days ago
+Madrid, Barcelona and Seville will miss Spain's total eclipse entirely, here's where to go instead
+ 4 days ago
+EasyJet’s £5.7bn Takeover: What Apollo’s Arrival Could Mean for One of Europe’s Biggest Airlines
+ 6 days ago
+Women hold half of hospitality's jobs and a third of its leadership seats
+ 2 days ago
+AMANVARI OPENS ON BAJA’S EAST CAPE, MEXICO
+ 2 days ago
+VIDEOS FEATURED PLAYLISTS
+FHS Saudi Arabia 2026
+  
+Web Summit Rio 2026
+IATA Annual General Meeting 2026
+  
+FOCUS LATEST
+Beyond the Desert Horizon: Saudi Arabia’s Expanding Tourism Vision
+Take a 3D tour as the luxury Ramadan Majlis returns to Jumeirah Emirates Towers
+Take a 3D-tour as AMASSI by Selma Benomar returns to One&Only One Za’abeel this Ramadan
+TRAVEL EVENTS UPCOMING
+AUG 2026
+13
+FUTR Xchange - Singapore 2026
+ Singapore
+AUG 2026
+14
+WiT Phocuswright Middle East 2026
+ Dubai, United Arab Emirates
+AUG 2026
+18
+PATA Travel Mart 2026
+ Kuching, Malaysia
+NEWS IN PICTURES
+MEDIA PARTNERS
+FOLLOW US ON INSTAGRAM
+ADVERTISE
+Advertise with us
+SUBMIT
+Submit an article
+Submit a press release
+Submit an event
+About
+Contact
+Privacy Policy
+Terms of Use
+
+© 2026 Breaking Travel News. All rights reserved.
+Breaking Travel News is a registered trademark: UK00003895441
+
+STRUCTURED DATA
+
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.breakingtravelnews.com//news/article/fliggy-unveils-its-next-generation-agentic-ai-travel-assistant"
+  },
+  "headline": "Fliggy unveils its next-generation agentic AI travel assistant",
+  "description": "Fliggy, a leading online travel services platform and a wholly owned subsidiary of Alibaba Group, today announced the latest generation of its agentic AI travel assistant designed for personalized and direct task implementation, further upgrading its consumer-facing AI capabilities.",
+  "image": "/images/sized/images/uploads/technology/images-1-678x452.jpg",  
+  "author": {
+    "@type": "Organization",
+    "name": "Breaking Travel News"
+  },  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Breaking Travel News",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.breakingtravelnews.com/images/logo/BTN-logo.png",
+      "width": 233,
+      "height": 60
+    }
+  },
+  "datePublished": "2026-08-12T08:03:49+00:00",
+  "dateModified": "2026-08-12T09:03:49+00:00"
+}

@@ -1,0 +1,105 @@
+MENU
+HOME LATEST NEWS AI NEWS JOBS EVENTS PHOCUSWRIGHT ABOUT US
+ 
+FLIGGY ANNOUNCES ITS LATEST AGENTIC AI TRAVEL ASSISTANT
+NEWS / TECHNOLOGY
+BY ABBY CROTTY | AUGUST 12, 2026
+SHARE
+
+Fliggy, part of Alibaba group, has launched the latest generation of its agentic artificial intelligence (AI) assistant. 
+
+The assistant is powered by Alibaba’s Qwen model and trained on Fliggy’s proprietary travel scenario data and real-time transaction systems. Fliggy said it can “directly undertake complex multistep travel tasks” such as making reservations, selecting seats, changing itineraries and completing cancellations. 
+
+The agentic AI assistant can also manage long-running tasks such as room upgrades, communicating with the hotel and providing updates without requiring constant oversight from the traveler. 
+
+“This upgrade represents a meaningful step in bringing AI capabilities into the physical world. It fundamentally changes how travelers interact with our platform: Users can now express personalized needs in natural language while our agentic AI assistant delivers real, actionable services across the entire journey—from trip planning and in-trip services to post-travel assistance,” said Fliggy CTO Alex Chen. 
+
+“Looking ahead, as AI technology matures and the travel ecosystem continues to embrace it, we believe AI agents will grow increasingly intelligent, moving beyond reactive assistance to offer proactive support across every stage of the journey.” 
+
+The assistant is available across the app and can be used at “almost any point” of the travel planning journey. It also features improved memory to match long-term user preferences with real-time needs and provide more relevant and personalized support, Fliggy said. 
+
+This is the latest in a series of recent AI updates from Fliggy. In April, it introduced developer platform FlyAI for building and commercializing travel applications using its flyai travel skill, which was introduced in March. 
+
+In April 2025, Fliggy launched its AskMe AI assistant to “emulate the problem-solving and task-execution capabilities of professional travel consultants.” A few months later, Fliggy’s business travel arm, AliBtrip, also launched an AI solution.
+
+APAC
+ALIBABA
+ARTIFICIAL INTELLIGENCE
+TRAVEL BOOKING
+ONLINE TRAVEL AGENCY
+TRAVEL PLANNING
+More From PhocusWire
+AI transformation in travel: Javier Cabrerizo of HBX Group
+What the EU AI Act means for the travel industry
+Bilt debuts tech platform for travel advisors
+AI surge meets a crowded digital landscape in Thailand’s online travel boom
+TourRadar's Travis Pittman on rebuilding the company using AI
+Navigating the future of OBTs in an AI-driven travel industry
+Report: Travelers want AI personalization, not unchecked autonomy
+Sponsored
+Meeting travel agents where they are: Why conversational chat decides agentic AI adoption
+Engine acquires Options Travel to build modern OBT
+From Our Partners
+MOST POPULAR
+LATEST STORIES
+NEWS / FINANCE
+Airbnb continues hotel push: 'Stepping on the gas'
+NEWS / TECHNOLOGY
+What the EU AI Act means for the travel industry
+NEWS / FINANCE
+Expedia Group is investing in AI that doesn't convert yet
+NEWS / DISTRIBUTION
+Airbnb partners with Tripadvisor amid plans to scale Experiences
+NEWS / FINANCE
+Booking Holdings: AI visibility is up, but referrals stay under 1% of room nights
+Subscribe Now!
+
+I accept the Terms and Conditions and Privacy Policy.
+
+
+
+Sponsored
+FROM OUR PARTNERS
+Report: Travelers want AI personalization, not unchecked autonomy
+How travel booking is moving from search to intent
+Why B2B travel payments need more than virtual cards
+Why the booking layer is the real test for AI in travel
+Why hotel AI needs more than generic answers
+Why traveler loyalty depends on what happens when things go wrong
+Partner marketing in travel: Say goodbye to the last-click legacy
+The silent booking signal: How bed bug safety reshapes hotel choice
+Strengthening agency relationships through smarter commission payments
+Travel’s payment complexity is pushing innovation forward
+MORE STORIES
+Event Calendar
+17
+NOV
+The Phocuswright Conference 2026
+November 17-19, 2026
+Ft. Lauderdale, Florida
+17
+SEP
+Smarter Insights, Stronger Partnerships: Maximizing Performance With Business Intelligence
+September 17, 2026
+online
+08
+SEP
+Travel Marketing AI Summit London
+September 8, 2026
+London
+ALL EVENTS AND REPLAYS
+ PHOCUSWRIGHT RESEARCH
+ PHOCUSWRIGHT EVENTS
+Subscribe Now!
+SUBMIT
+I accept the Terms and Conditions and Privacy Policy.
+Other Northstar Travel Group Products
+Events by WIT
+About Us
+Advertise
+Privacy
+Contact Us
+Do Not Sell or Share My Data
+Make PhocusWire your preferred news source on Google
+Copyright © 2026 by Northstar Travel Media LLC. All Rights Reserved. Phocuswright 301 Route 17 N., Suite 1150, Rutherford, NJ 07070 USA | Telephone: +1 860 350-4084
+Phocuswright • The Phocuswright Conference • Phocuswright Europe • Global Startup Pitch • Web In Travel • Retail Travel

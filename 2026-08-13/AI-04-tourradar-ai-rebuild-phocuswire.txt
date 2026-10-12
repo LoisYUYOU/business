@@ -1,0 +1,196 @@
+MENU
+HOME LATEST NEWS AI NEWS JOBS EVENTS PHOCUSWRIGHT ABOUT US
+ 
+TOURRADAR'S TRAVIS PITTMAN ON REBUILDING THE COMPANY USING AI
+OPINION / TECHNOLOGY
+BY TRAVIS PITTMAN - TOURRADAR | AUGUST 10, 2026
+SHARE
+
+You wouldn't hire a graduate, hand them a complex task on day one with no context, judge their first attempt against your 20 years of experience and conclude that hiring people doesn't work.
+
+But that's precisely how most people evaluate artificial intelligence (AI). They run something once, compare the output to what they'd have produced themselves, find it not up to scratch and quietly give up. After months of rebuilding how TourRadar operates around these tools, this is the thing I most want to get across. Not just to founders, to anyone who does knowledge work for a living.
+
+The junior employee you have to train
+
+The shift that made it click for me: Treat AI like a junior employee fresh out of school. Smart, fast, willing and completely lacking your context. You wouldn't expect a new hire to know your business metrics, your meeting history or the hundred scenarios your experience tells you to check for. You'd expect a learning phase, and you'd invest in it.
+
+The first time I tried automating my own meeting prep and presentation drafting, the outputs were nowhere near usable, and they couldn't have been, because I hadn't given it anything to work from. Everything changed when I fed in the history and then, after each real session, made it study the gap: what came up that we didn't plan for, what did I edit out of its draft and why.
+
+The single biggest lever here is examples of what's bad. When something isn't good, screenshot it and talk it through out loud: what exactly is wrong, what you'd have done instead, why. My screenshots folder has thousands of files in it for this reason. The more examples you give it of good and bad, the smarter it gets, because that's literally what it learns from.
+
+A few cycles of that and the drafts arrive close to how I'd have written them myself. Not because the model got smarter. Because it finally has what any employee needs: context, feedback and history.
+
+Talk, don't type
+
+This one I owe to a fish. In December, on the Great Barrier Reef in Australia, a large fish decided my right index finger looked like lunch and had a go. A few stitches later it's completely fine, but at the time it hurt like crazy and I couldn't use the finger I usually do most things with. So out of necessity I stopped typing at the AI and started talking to it instead.
+
+That fish turned out to be the precursor to a whole new journey for me and the company: Two months later I found Claude, and the two things fitted together.
+
+So take it from someone briefly outsmarted by a fish: Stop typing at the AI and just talk to it. All that context I described feeding in? The fastest way to transfer it is a voice brain dump. Typing is a limiting factor. It keeps you out of flow, and you self-edit down to a fraction of what you actually know. Speaking, you'll give 10 times the context in the same minutes, rambling included, and the model is perfectly happy to untangle a ramble.
+
+ChatGPT and Claude both have voice transcription built in. I've landed on Wispr Flow myself, mostly because it works everywhere, so I talk to my email, my Slack, my docs, the lot from the laptop or phone. Whatever tool, the shift is the same: Your mouth is faster than your fingers.
+
+The compounding effect nobody warns you about
+
+The thing I most underestimated is how much this work compounds. Every piece of context you feed in, every skill you write down, every connector you plug in stays. You never start from scratch again. It's like playing Super Mario: Each level you clear unlocks the next, and what you unlocked stays unlocked.
+
+The clearest example I have is our monthly company hackathon. It's turned out to be the single biggest game changer, and not just for me.
+
+Every month, the whole company downs tools for a day to build, and every month, everyone comes out a level up. At the very first one, someone built an model context protocol (MCP) server for a bounty we'd put up, a bit of internal plumbing that's since become the centerpiece of so many things we're building. Across the hackathons since, we've had over 125 projects built. That's the point: Each one leaves the whole team with foundations that were a mystery the month before, and everyone starts the next further up the mountain.
+
+My own arc is a small version of what happens to everyone. Before the second hackathon I'd gone deep on Claude Code and cobbled together a basic WhatsApp assistant for our tours. For the third I kept going: connected it to our full search tools, redesigned the whole thing around how a great travel-agent friend actually texts, added onboarding, voice notes and multilingual.
+
+What I really walked away with wasn't the assistant, it was the foundation underneath it, how you connect AI into the places people already are. My WhatsApp assistant only exists because that MCP server did.
+
+Once the plumbing was no longer a mystery, everything since came faster. In parallel (in a different Claude Code session) at that same hackathon I built Sam, my AI chief of staff, in Slack, in a fraction of the time the WhatsApp work had taken.
+
+At the fourth hackathon I leveled Sam up again, real memory, a personality, a smarter engine underneath with voice again at the core of how I interact with her. None of it was a plan. Each level only became visible from the one before it, and the inputs keep growing too: Granola, Slack, Amplitude, Looker, Roam Research, Gmail, Calendar, Docs, Slides, Sheets, all feeding the same foundation.
+
+And the compounding runs in both directions. While your foundation grows, the models themselves improve underneath you. Things that flat-out failed for me earlier this year work today with zero change on my part, purely because the capability floor rose. Most "AI can't do that" opinions aren't facts. They're timestamps.
+
+This is why "we tried AI and it wasn't good" ages so badly. People six months into building their foundation aren't marginally ahead of those who gave up after one attempt. They're playing a different game, on a board that keeps changing under them.
+
+What that compounding produced
+
+The last time I wrote code that shipped, it was basic HTML, and it was over 20 years ago. I never progressed past that. Four hackathons later, I've built something I’m proud of—an assistant to help people discover life-enriching adventures, that lives in WhatsApp.
+
+Talk or text it anything like, "7 days in Morocco in August." "Family safari in Tanzania with the kids." It knows 50,000+ organized adventures, replies in seconds with photo cards, live dates and prices, handles voice, answers in whatever language you write in and remembers you, so you never repeat yourself.
+
+I did the thinking; AI did the typing. Claude wrote every line while I directed, tested and decided what shipped. I was never in the code. I judged it by whether it worked for me as a user, not by reading the code it wrote, using the product relentlessly on my own phone.
+
+That's how the real bugs surfaced: I asked for a Morocco tour mid-test and got Spain results because old conversation context was bleeding through. No code review would have caught that, using it like a customer did, and the fix was live within minutes. What would traditionally be scoped as a month (?) of engineering took two hackathon days plus some evenings.
+
+Was it smooth? No. I failed constantly, gave up more than once and burned through more tokens than I realized on a runaway loop nothing warns you about. It still got there, and I can't write a line of code, because Claude stepped me through the GitHub, Meta API, WhatsApp, hosting, all of it.
+
+The engineering lesson I didn't expect
+
+You don't have to pick one AI provider. The first version ran everything on a single premium model, Claude Sonnet 4.6: great replies, exciting, expensive, slow. So I ran a proper blind test.
+
+Gemini 2.5 Flash alone (on Google Cloud credits we had sitting there) was fast and nearly free, but the writing was flat. The answer was a hybrid: Gemini 2.5 Flash does the fast factual work of searching tours and calling tools, then a small Claude model, Claude Haiku 4.5, writes just the final reply, because that's what it's best at.
+
+Blind evaluation, with two different AI judges scoring so neither model graded its own homework: The hybrid beat the full premium setup 92% to 100% of the time on warmth and specificity, while answering in about seven seconds instead of 15+, at close to zero cost. A cheap, focused, single-purpose call beat an expensive do-everything one. Different models excel at different things, and you only learn which by testing, watching the bill and iterating.
+
+Why WhatsApp? There are some 3 billion people on it, and it's where travelers already talk to their friends about trips. Meeting people where they are, rather than dragging them to another app, is the whole point.
+
+And this is only one surface area. What excites me most is where the next hackathon or two takes this: one engine powering every customer experience, across whatever surface people are already on, from phone to app to web to messaging, all driving our AI-native strategy.
+
+Making it stick across a company
+
+All of that works for one person. The harder problem is getting a whole company there, and for me it started on a weekend in February, alone in the office, going deep on what all the hype was actually about. Claude, the connectors, what happens when you plug an AI into your own systems rather than just chatting with it.
+
+I came out of that weekend convinced this wasn't a tools upgrade, it was a different way of operating.
+
+Me believing it wasn't enough. What changed the company was turning that into structure, piece by piece over the months since:
+
+A company-wide AI hackathon on the second last Thursday of every month, protected time, with a rotating senior leader sponsoring each one, so this is never one person's pet project.
+A recurring all-company session (“Claude Hour”) where two or three people demo things they've actually shipped and the whole team have a chance to ask questions in a forum where everyone is learning and there really is no such thing as a “dumb question.” It’s basically weekly office hours across our time zones for anyone who's stuck.
+And crucially, mentors: the people who are genuinely good at this running hands-on sessions to explain it to the wider team, because peer teaching lands in a way top-down mandates never do.
+Underneath all of it, shared skills and connectors, so a non-engineer starts from the company's foundation instead of from a blank screen.
+
+That has produced over 125 projects and builds across Brisbane, Vienna and Toronto, from people in customer service, marketing, business development and finance who a few months ago had never touched an API.
+
+And what comes out has changed. The big unlock was building our own design system for the large language models to build on top of, a shared foundation anyone can start from. That's what's moved us past the lovable prototype that used to sit in a backlog waiting to be scoped: Things now land close to production far faster, folded into real roadmaps by people right across the company, not just engineers.
+
+It took real work to get that design system to a skill we're happy with, and we're still improving it constantly, but it's the key piece that democratized the whole thing.
+
+The best builders aren't always the most technical people. Great engineers and production-grade code matter more than ever. But the people closest to a problem are often the ones who can now solve it themselves. The customer support team hearing the same friction from customers every day. The marketer who used to need engineering time to pull something together and can now wire up connectors to APIs, Google and the rest and build it mostly themselves.
+
+These are the people with the problem and the friction, and they're getting straight in and getting it to a point where it works. Every layer underneath, the shared skills, the connectors, the design system, is what makes that possible.
+
+The honest summary
+
+I never wrote a line of the code, but I did put my hands in it, and that turned out to matter more than I expected.
+
+The moment things changed for me was when I stopped judging AI by its first attempt and started training it like the smartest junior I've ever hired, feeding it context relentlessly and letting the work compound from there.
+
+The same thing I keep coming back to when I talk with other founders and business owners is this: It doesn't get infused into an organization from the top down as a mandate. It happens when the leader(s) take a genuine interest, get their own hands dirty and drive it from the front. If you're not willing to sit in the mess and fail at it yourself, you can't ask your team to.
+
+And once you've done that yourself, the job becomes building the structure that lets everyone else compound the same way: protected time every month so it's a real priority and not a favor people do after hours, permission to fail out loud and people teaching each other, because peer learning lands in a way no mandate ever will.
+
+One person figuring this out is a nice story. A company where everyone's figuring it out is a different kind of business. So if you ran it once and the output was mediocre, what you found wasn't AI's ceiling, it was its starting point, and the organization's.
+
+Six months ago very few of the team could have built any of this. The tools have moved a long way in that time, enough that what used to be a vague prototype can now be pushed almost straight into production and actually make a difference, but on their own they were never going to change how we operate. What changed it was leading from the front, protecting the time and the room to fail and letting the whole company compound together, until "AI can't do that" finally showed itself for what it always was: not a fact, just a timestamp.
+
+The TourRadar WhatsApp assistant is live. Give it a hard time and tell me what's missing. And if you're working through this shift yourself, whatever your role, share your thoughts/experience in the comments.
+
+About the author...
+Travis Pittman is the co-founder and CEO of TourRadar.
+
+EDITORS PICK
+ARTIFICIAL INTELLIGENCE
+ONLINE TRAVEL AGENCY
+More From PhocusWire
+Fliggy announces its latest agentic AI travel assistant
+AI transformation in travel: Javier Cabrerizo of HBX Group
+What the EU AI Act means for the travel industry
+Bilt debuts tech platform for travel advisors
+AI surge meets a crowded digital landscape in Thailand’s online travel boom
+Navigating the future of OBTs in an AI-driven travel industry
+Report: Travelers want AI personalization, not unchecked autonomy
+Sponsored
+Meeting travel agents where they are: Why conversational chat decides agentic AI adoption
+Engine acquires Options Travel to build modern OBT
+From Our Partners
+MOST POPULAR
+LATEST STORIES
+NEWS / FINANCE
+Airbnb continues hotel push: 'Stepping on the gas'
+NEWS / TECHNOLOGY
+What the EU AI Act means for the travel industry
+NEWS / FINANCE
+Expedia Group is investing in AI that doesn't convert yet
+NEWS / DISTRIBUTION
+Airbnb partners with Tripadvisor amid plans to scale Experiences
+NEWS / FINANCE
+Booking Holdings: AI visibility is up, but referrals stay under 1% of room nights
+Subscribe Now!
+
+I accept the Terms and Conditions and Privacy Policy.
+
+
+
+Sponsored
+FROM OUR PARTNERS
+Report: Travelers want AI personalization, not unchecked autonomy
+How travel booking is moving from search to intent
+Why B2B travel payments need more than virtual cards
+Why the booking layer is the real test for AI in travel
+Why hotel AI needs more than generic answers
+Why traveler loyalty depends on what happens when things go wrong
+Partner marketing in travel: Say goodbye to the last-click legacy
+The silent booking signal: How bed bug safety reshapes hotel choice
+Strengthening agency relationships through smarter commission payments
+Travel’s payment complexity is pushing innovation forward
+MORE STORIES
+Event Calendar
+17
+NOV
+The Phocuswright Conference 2026
+November 17-19, 2026
+Ft. Lauderdale, Florida
+17
+SEP
+Smarter Insights, Stronger Partnerships: Maximizing Performance With Business Intelligence
+September 17, 2026
+online
+08
+SEP
+Travel Marketing AI Summit London
+September 8, 2026
+London
+ALL EVENTS AND REPLAYS
+ PHOCUSWRIGHT RESEARCH
+ PHOCUSWRIGHT EVENTS
+Subscribe Now!
+SUBMIT
+I accept the Terms and Conditions and Privacy Policy.
+Other Northstar Travel Group Products
+Events by WIT
+About Us
+Advertise
+Privacy
+Contact Us
+Do Not Sell or Share My Data
+Make PhocusWire your preferred news source on Google
+Copyright © 2026 by Northstar Travel Media LLC. All Rights Reserved. Phocuswright 301 Route 17 N., Suite 1150, Rutherford, NJ 07070 USA | Telephone: +1 860 350-4084
+Phocuswright • The Phocuswright Conference • Phocuswright Europe • Global Startup Pitch • Web In Travel • Retail Travel
